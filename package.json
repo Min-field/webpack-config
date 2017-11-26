@@ -11,5 +11,8 @@
     "config"
   ],
   "author": "feikerwu@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
 }
